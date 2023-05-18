@@ -1,0 +1,6 @@
+"D:\JetBrains\CLion 2023.1.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S D:\vscode\Project\data_struct\study\7.graph -B D:\vscode\Project\data_struct\study\7.graph\cmake-build-debug
+CMake Error: CMake was unable to find a build program corresponding to "MinGW Makefiles".  CMAKE_MAKE_PROGRAM is not set.  You probably need to select a different build tool.
+CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+See also "D:/vscode/Project/data_struct/study/7.graph/cmake-build-debug/CMakeFiles/CMakeOutput.log".
