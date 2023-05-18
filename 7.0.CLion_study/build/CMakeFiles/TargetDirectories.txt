@@ -1,3 +1,0 @@
-D:/vscode/Project/data_struct/study/7.map/build/CMakeFiles/main.dir
-D:/vscode/Project/data_struct/study/7.map/build/CMakeFiles/edit_cache.dir
-D:/vscode/Project/data_struct/study/7.map/build/CMakeFiles/rebuild_cache.dir

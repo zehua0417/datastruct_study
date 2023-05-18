@@ -9,7 +9,7 @@
  */
 class GraphAdjList {
 public:
-    GraphAdjList(int num_vertices); // 构造函数
+    explicit GraphAdjList(int num_vertices); // 构造函数
 
     void addEdge(int src, int dest); // 添加边
     void depthFirstTraversal(int start_vertex); // 深度优先遍历
