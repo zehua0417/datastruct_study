@@ -21,12 +21,6 @@ public:
     void depthFirstPrint(int start_vertex); //深度遍历打印
     void breadthFirstPrint(int start_vertex); // 广度优先遍历
     void addEdge(INDEX_ src, INDEX_ dest, WEIGHT_ weight); //添加边
-
-    //重构+, 用以添加边
-    //Graph& operator+(INDEX_ src, INDEX_ dest, WEIGHT_ weight) {
-    //    addEdge(src, dest, weight);
-    //    return *this;
-    //}
 };
 
 Graph::Graph(INDEX_ num_vertices) : num_vertices(num_vertices){
