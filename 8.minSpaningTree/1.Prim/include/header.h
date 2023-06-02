@@ -7,5 +7,9 @@
 #include<list>
 #include<queue>
 #include<functional>
+#include<limits>
+
+#define INDEX_ int
+#define WEIGHT_ int
 
 #endif
