@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a5101ec-46c8-4f5d-ac8c-d0352950cd8d" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5.queue/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.Prim/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5.queue/bin/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../5.queue/bin/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.tree/1.binarytree/.vs/1.binarytree/FileContentIndex/3445f37e-453d-4b3e-a9ab-d3a77b3e83b5.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.tree/1.binarytree/.vs/1.binarytree/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../6.tree/1.binarytree/.vs/1.binarytree/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.tree/1.binarytree/.vs/1.binarytree/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../6.tree/1.binarytree/.vs/1.binarytree/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.tree/1.binarytree/.vs/1.binarytree/v17/ipch/AutoPCH/7813a90b2369fc16/MAIN.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../6.tree/1.binarytree/.vs/1.binarytree/v17/ipch/AutoPCH/7813a90b2369fc16/MAIN.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.tree/2.huffmanTree/.vs/2.huffmanTree/FileContentIndex/c2a470b7-72ad-42be-95fd-9d382ddd1c05.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.tree/2.huffmanTree/.vs/2.huffmanTree/FileContentIndex/e264b7c5-05b2-4353-935e-4820c1344e43.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.tree/2.huffmanTree/.vs/2.huffmanTree/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../6.tree/2.huffmanTree/.vs/2.huffmanTree/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.tree/2.huffmanTree/.vs/2.huffmanTree/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../6.tree/2.huffmanTree/.vs/2.huffmanTree/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.tree/2.huffmanTree/2.huffmanTree/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../6.tree/2.huffmanTree/2.huffmanTree/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/3.26.0-rc4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/3.26.0-rc4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/3.26.0-rc4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/3.26.0-rc4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/3.26.0-rc4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/3.26.0-rc4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/3.26.0-rc4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/3.26.0-rc4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/3.26.0-rc4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/3.26.0-rc4/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/main.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/main.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/main.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/main.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/main.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/main.dir/includes_CXX.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/main.dir/linkLibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/main.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/main.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/bin/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/3.26.0-rc4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/3.26.0-rc4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/3.26.0-rc4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/3.26.0-rc4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/3.26.0-rc4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/3.26.0-rc4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/3.26.0-rc4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/3.26.0-rc4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/3.26.0-rc4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/3.26.0-rc4/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/includes_CXX.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/linkLibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/src/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/main.dir/src/main.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/build/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/.cmake/api/v1/reply/cache-v2-e617a5d2aa39da16475b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-42b99b0d12b03ee87525.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b18f3e65678fc8b3bd59.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/.cmake/api/v1/reply/index-2023-05-17T11-33-01-0383.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-fc281e019a3381c85131.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/3.25.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/include/header.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.0.CLion_study/src/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/bin/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/bin/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/.cmake/api/v1/reply/cache-v2-f40665cc59e6d850057b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/.cmake/api/v1/reply/cmakeFiles-v1-e8e7681114f61ad488c3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/.cmake/api/v1/reply/codemodel-v2-736b29ff66b05f807626.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/.cmake/api/v1/reply/index-2023-05-18T09-21-15-0968.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/compiler_depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/compiler_depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/CMakeFiles/main.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/build/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/build/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7.graph/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../7.graph/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2QUp1V44v0cwHAkuZI1VQXALE3i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7a5101ec-46c8-4f5d-ac8c-d0352950cd8d" name="更改" comment="" />
+      <created>1685417801363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685417801363</updated>
+      <workItem from="1685417802440" duration="286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>
