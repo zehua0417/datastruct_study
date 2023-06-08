@@ -7,8 +7,10 @@
  */
 class Graph{
 private:
-    int num_vertices; // 顶点边
+    int num_vertices; // 顶点边 0, 1, 2, ..., num_vertices - 1
+    int num_edges; //边数 0, 1, 2, ..., num_edges - 1
     std::vector<std::list<std::pair<INDEX_, WEIGHT_> > > adj_list; //邻接表
+
     template<typename Func>
     void _depthFirstForeach(int vertex, std::vector<bool>& visited, Func func);//深度遍历
     template<typename Func>

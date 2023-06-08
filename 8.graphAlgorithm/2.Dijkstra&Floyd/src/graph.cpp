@@ -1,6 +1,6 @@
 #include"../include/header.h"
 #include"../include/graph.h"
-Graph::Graph(INDEX_ num_vertices) : num_vertices(num_vertices){
+Graph::Graph(INDEX_ num_vertices) : num_vertices(num_vertices), num_edges(-1){
     adj_list.resize(num_vertices);
     for (int i = 0; i < num_vertices; i++) {
         adj_list[i] = std::list<std::pair<INDEX_, WEIGHT_> >(); // 将每个列表初始化为空
@@ -104,6 +104,7 @@ void Graph::addEdge(INDEX_ src, INDEX_ dest, WEIGHT_ weight){
         adj_list[src].emplace_back(std::make_pair(dest,weight));
         adj_list[dest].emplace_back(std::make_pair(src, weight));
     }
+    num_edges++;
 }
 
 std::vector<std::pair<INDEX_, WEIGHT_>> Graph::primMST() {
