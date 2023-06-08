@@ -1,14 +1,17 @@
-#ifndef HERDER_H_
-#define HERDER_H_
+#ifndef HEADER_HPP_
+#define HEADER_HPP_
 
 #include<iostream>
 #include<cstdio>
 #include<vector>
-#include<list>
+#include<string>
 #include<queue>
-#include<functional>
+#include<stack>
+#include<list>
 #include<limits>
-#include<algorithm>
+#include<set>
+#include<map>
+#include<iterator>
 
 #define INDEX_ int
 #define WEIGHT_ int
