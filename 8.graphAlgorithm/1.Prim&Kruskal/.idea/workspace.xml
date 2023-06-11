@@ -21,9 +21,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af423080-d152-4264-9984-835cd1a29683" name="更改" comment="dijkstra&amp;Floyd unfinished version0.2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/graph.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/graph.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/header.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/prim&amp;cruskal.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/prim&amp;cruskal.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/tree.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/tree.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +136,8 @@
       <workItem from="1686290515784" duration="7439000" />
       <workItem from="1686365133437" duration="5018000" />
       <workItem from="1686442006489" duration="151000" />
-      <workItem from="1686442169760" duration="12817000" />
+      <workItem from="1686442169760" duration="13962000" />
+      <workItem from="1686468867114" duration="3006000" />
     </task>
     <task id="LOCAL-00001" summary="datastruct_hw version1.1">
       <created>1685616144023</created>
@@ -219,8 +224,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/src/main.cpp</url>
-          <line>22</line>
-          <option name="timeStamp" value="7" />
+          <line>25</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/include/tree.hpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

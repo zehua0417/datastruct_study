@@ -42,6 +42,10 @@ public:
 
         for (int i = 1; i < data.size(); i++) {
             Node<T>* parent = findNode(root, data[i].first);
+            if(parent == nullptr){
+                throw std::runtime_error("ERROR: parent node not found");
+                return;
+            }
             insertNode(parent, data[i].second);
         }
     }
@@ -50,6 +54,11 @@ public:
 
     Node<T>* getRoot() const {
         return root;
+    }
+
+    void setRoot(int data){
+        root = new Node<T>(data);
+        num_nodes = 1;
     }
 
     int getNumNodes() const {

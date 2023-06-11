@@ -9,6 +9,7 @@ int main(){
 
     WeightedGraph<int>graph(5);
     graph.insertEdge(0, { 3, 3 });
+    graph.insertEdge(0, { 1, 3 });
     graph.insertEdge(0, { 4, 9 });
     graph.insertEdge(1, { 2, 2 });
     graph.insertEdge(1, { 3, 4 });
