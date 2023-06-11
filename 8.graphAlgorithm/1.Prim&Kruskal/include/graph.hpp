@@ -43,7 +43,7 @@ public:
      //其他方法
      virtual bool directed() const = 0;
      virtual bool weighted() const = 0;
-     virtual GraphIterator<T>* iterator(int) = 0;
+     virtual GraphIterator<T>* iterator(int)const = 0;
 };
 
 #endif
