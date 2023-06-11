@@ -5,7 +5,12 @@
 #include"../include/weightedGraph.hpp"
 #include"../include/tree.hpp"
 
-// Prim算法
+    /**
+     * @brief prim算法生成最小生成树
+     * @tparam T
+     * @param graph
+     * @return Tree<T> 最小生成树
+     */
     template<typename T>
     Tree<T> prim(const WeightedGraph<T>& graph) {
         int numVertices = graph.numberVertices();
