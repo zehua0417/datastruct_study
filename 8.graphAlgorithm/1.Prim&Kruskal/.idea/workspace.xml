@@ -20,19 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af423080-d152-4264-9984-835cd1a29683" name="更改" comment="dijkstra&amp;Floyd unfinished version0.3">
-      <change afterPath="$PROJECT_DIR$/../1.1.Prim&amp;Kruskal/.idea/1.1.Prim&amp;Kruskal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/prim&amp;kruskal.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/src/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/main.dir/src/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/header.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/header.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/prim&amp;cruskal.hpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/tree.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/tree.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/weightedGraph.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/include/weightedGraph.hpp" afterDir="false" />
+    <list default="true" id="af423080-d152-4264-9984-835cd1a29683" name="更改" comment="dijkstra&amp;Floyd unfinished version1.0">
+      <change beforePath="$PROJECT_DIR$/../1.1.Prim&amp;Kruskal/.idea/1.1.Prim&amp;Kruskal.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +139,7 @@
       <workItem from="1686533448627" duration="693000" />
       <workItem from="1686534163678" duration="10075000" />
       <workItem from="1686553599054" duration="99000" />
-      <workItem from="1686553780160" duration="3486000" />
+      <workItem from="1686553780160" duration="3792000" />
     </task>
     <task id="LOCAL-00001" summary="datastruct_hw version1.1">
       <created>1685616144023</created>
@@ -222,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686472097425</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="dijkstra&amp;Floyd unfinished version1.0">
+      <created>1686557946582</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686557946582</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +248,8 @@
     <MESSAGE value="dijkstra&amp;Floyd unfinished version0.1" />
     <MESSAGE value="dijkstra&amp;Floyd unfinished version0.2" />
     <MESSAGE value="dijkstra&amp;Floyd unfinished version0.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="dijkstra&amp;Floyd unfinished version0.3" />
+    <MESSAGE value="dijkstra&amp;Floyd unfinished version1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="dijkstra&amp;Floyd unfinished version1.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
