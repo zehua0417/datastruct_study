@@ -2,6 +2,7 @@
 #define HEADER_HPP_
 
 #include<iostream>
+#include<fstream>
 #include<cstdio>
 #include<vector>
 #include<string>
@@ -11,6 +12,8 @@
 #include<limits>
 #include<set>
 #include<map>
+#include<algorithm>
+#include<utility>
 #include<iterator>
 
 #define INDEX_ int

@@ -6,7 +6,7 @@
 #include "../include/graph.hpp"
 
 template<typename T>
-class WeightedGraphIterator; // Incomplete declaration
+class WeightedGraphIterator; // 不完整声明
 
 /**
  * @brief 无向带权图
@@ -19,7 +19,7 @@ private:
     int num_edges;
 
 public:
-    std::vector<std::list<Edge<T>>> matrix;
+    std::vector<std::list<Edge<T> > > matrix;
     explicit WeightedGraph(int size) : num_vertices(size), num_edges(0) {
         matrix.resize(num_vertices);
     }
@@ -53,6 +53,17 @@ public:
 
     void insertEdge(std::pair<int, Edge<T>&> edge) {
         insertEdge(edge.first, edge.second);
+    }
+
+    int searchLinkedVertex(Edge<T> edge) const {
+        for (int i = 0; i < matrix.size(); i++){
+            for (auto it = matrix[i].begin(); it != matrix[i].end(); ++it){
+                if (it->linked_vertex == edge.linked_vertex){
+                    return i;
+                }
+            }
+        }
+        return -1;
     }
 
 
