@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\vscode\Project\data_struct\study\8.graphAlgorithm\2.Dijkstra&Floyd\src\../include/graph.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vscode\Project\data_struct\study\8.graphAlgorithm\2.Dijkstra&Floyd\src\../include/weightedGraph.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vscode\Project\data_struct\study\8.graphAlgorithm\2.Dijkstra&Floyd\src\../include/Dijkstra.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\vscode\Project\data_struct\study\8.graphAlgorithm\2.Dijkstra&Floyd\src\../include/weightedGraph.hpp(90,1): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\vscode\Project\data_struct\study\8.graphAlgorithm\2.Dijkstra&Floyd\src\../include/weightedGraph.hpp(89,1): message : 在编译 类 模板 成员函数“int WeightedGraph<int>::degree(int) const”时
+D:\vscode\Project\data_struct\study\8.graphAlgorithm\2.Dijkstra&Floyd\src\../include/weightedGraph.hpp(106,9): message : 查看对正在编译的函数 模板 实例化“int WeightedGraph<int>::degree(int) const”的引用
+D:\vscode\Project\data_struct\study\8.graphAlgorithm\2.Dijkstra&Floyd\src\main.cpp(7,30): message : 查看对正在编译的 类 模板 实例化“WeightedGraph<int>”的引用
+  main.vcxproj -> D:\vscode\Project\data_struct\study\8.graphAlgorithm\2.Dijkstra&Floyd\bin\Debug\main.exe

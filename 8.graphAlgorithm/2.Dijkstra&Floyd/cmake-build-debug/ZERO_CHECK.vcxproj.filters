@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\vscode\Project\data_struct\study\8.graphAlgorithm\2.Dijkstra&amp;Floyd\cmake-build-debug\CMakeFiles\d90b763b6264a8d88f1b87a0cc7be84d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C6AFC2B5-F2F5-3FC1-877F-60A0BDEA791C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

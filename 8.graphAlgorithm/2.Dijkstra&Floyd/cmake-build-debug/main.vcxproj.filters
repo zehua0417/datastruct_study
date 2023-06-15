@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\vscode\Project\data_struct\study\8.graphAlgorithm\2.Dijkstra&amp;Floyd\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\vscode\Project\data_struct\study\8.graphAlgorithm\2.Dijkstra&amp;Floyd\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8E2E5AC2-99D5-3CDC-9155-A37CF41E6DF2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -20,12 +20,13 @@ CMAKE_ADDR2LINE:FILEPATH=D:/vscode/compiler/mingw64/bin/addr2line.exe
 //Path to a program.
 CMAKE_AR:FILEPATH=D:/vscode/compiler/mingw64/bin/ar.exe
 
-//Choose the type of build, options are: None Debug Release RelWithDebInfo
-// MinSizeRel ...
-CMAKE_BUILD_TYPE:STRING=Debug
-
 //Enable colored diagnostics throughout.
 CMAKE_COLOR_DIAGNOSTICS:BOOL=ON
+
+//Semicolon separated list of supported configuration types, only
+// supports Debug, Release, MinSizeRel, and RelWithDebInfo, anything
+// else will be ignored.
+CMAKE_CONFIGURATION_TYPES:STRING=Debug;Release;RelWithDebInfo
 
 //CXX compiler
 CMAKE_CXX_COMPILER:FILEPATH=D:/vscode/compiler/mingw64/bin/c++.exe
@@ -326,7 +327,7 @@ CMAKE_EXPORT_COMPILE_COMMANDS-ADVANCED:INTERNAL=1
 //Name of external makefile project generator.
 CMAKE_EXTRA_GENERATOR:INTERNAL=
 //Name of generator.
-CMAKE_GENERATOR:INTERNAL=Ninja
+CMAKE_GENERATOR:INTERNAL=Ninja Multi-Config
 //Generator instance identifier.
 CMAKE_GENERATOR_INSTANCE:INTERNAL=
 //Name of generator platform.
