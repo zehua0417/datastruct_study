@@ -1,0 +1,24 @@
+# ninja log v5
+7	56	7085244026197744	CMakeFiles/main.dir/src/sequential_search.cpp.obj	fd0e5ec8016dc347
+4	204	7085244027684010	CMakeFiles/main.dir/src/main.cpp.obj	805055282d1b6db8
+294	415	7085241555550293	D:/vscode/Project/data_struct/study/9.searchAlgorithm/1.sequentialSearch&binarySearch/bin/main.exe	f1bf4ca6d2c64714
+3	48	7085244230162624	CMakeFiles/main.dir/src/binary_search.cpp.obj	361835bf643b43a4
+6	53	7085244230212637	CMakeFiles/main.dir/src/sequential_search.cpp.obj	fd0e5ec8016dc347
+8	211	7085244231793284	CMakeFiles/main.dir/src/main.cpp.obj	805055282d1b6db8
+211	325	7085244232896252	D:/vscode/Project/data_struct/study/9.searchAlgorithm/1.sequentialSearch&binarySearch/bin/main.exe	c68a1648fa828d20
+3	54	7085244265092549	CMakeFiles/main.dir/src/binary_search.cpp.obj	361835bf643b43a4
+7	67	7085244265222561	CMakeFiles/main.dir/src/sequential_search.cpp.obj	fd0e5ec8016dc347
+9	219	7085244266753937	CMakeFiles/main.dir/src/main.cpp.obj	805055282d1b6db8
+219	348	7085244268009540	D:/vscode/Project/data_struct/study/9.searchAlgorithm/1.sequentialSearch&binarySearch/bin/main.exe	c68a1648fa828d20
+6	62	7085244362411388	CMakeFiles/main.dir/src/sequential_search.cpp.obj	fd0e5ec8016dc347
+3	63	7085244362411388	CMakeFiles/main.dir/src/binary_search.cpp.obj	361835bf643b43a4
+8	235	7085244364173064	CMakeFiles/main.dir/src/main.cpp.obj	805055282d1b6db8
+236	363	7085244365410357	D:/vscode/Project/data_struct/study/9.searchAlgorithm/1.sequentialSearch&binarySearch/bin/main.exe	c68a1648fa828d20
+5	59	7085244518249138	CMakeFiles/main.dir/src/binary_search.cpp.obj	361835bf643b43a4
+8	65	7085244518319135	CMakeFiles/main.dir/src/sequential_search.cpp.obj	fd0e5ec8016dc347
+10	229	7085244519964606	CMakeFiles/main.dir/src/main.cpp.obj	805055282d1b6db8
+229	373	7085244521359007	D:/vscode/Project/data_struct/study/9.searchAlgorithm/1.sequentialSearch&binarySearch/bin/main.exe	c68a1648fa828d20
+26	189	7086016147937261	CMakeFiles/main.dir/src/sequential_search.cpp.obj	fd0e5ec8016dc347
+12	194	7086016147987262	CMakeFiles/main.dir/src/binary_search.cpp.obj	361835bf643b43a4
+22	484	7086016150903499	CMakeFiles/main.dir/src/main.cpp.obj	805055282d1b6db8
+485	710	7086016153103307	D:/vscode/Project/data_struct/study/9.searchAlgorithm/1.sequentialSearch&binarySearch/bin/main.exe	c68a1648fa828d20
